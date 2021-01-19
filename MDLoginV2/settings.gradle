@@ -1,0 +1,2 @@
+rootProject.name = "MDLoginV2"
+include ':app'
